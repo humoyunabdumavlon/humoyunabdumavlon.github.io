@@ -1,8 +1,9 @@
 # Humoyun Abdumavlon
 
-![Profile Picture](profile.jpg)
+<img src="profile.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
 
 **PhD Student | Economics | University of Pittsburgh**
+
 
 ---
 
