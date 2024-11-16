@@ -16,23 +16,12 @@
 
 </div>
 
-
-
 ---
 
-## About Me
+## RESEARCH
 
-I am a PhD candidate in Economics at the University of Pittsburgh, specializing in economic development, political economy, and economic geography. My current research focuses on the intersection of conflicts, geography, and development, with a particular emphasis on policy implications in Central Asia.
+## TEACHING
 
----
-
-## Research Interests
-
-- **Economic Development**
-- **Political Economy of Conflict**
-- **Economic Geography**
-
----
 
 ## Contact
 
