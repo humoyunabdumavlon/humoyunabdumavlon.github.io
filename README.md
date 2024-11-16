@@ -1,8 +1,21 @@
-# Humoyun Abdumavlon
+<div style="display: flex; align-items: center;">
 
-<img src="profile.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <!-- Profile Picture -->
+  <div style="flex: 0 0 150px; text-align: center;">
+    <img src="profile.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+    <h2>Humoyun Abdumavlon</h2>
+    <p><strong>PhD Student | Economics</strong><br>University of Pittsburgh</p>
+  </div>
 
-**PhD Student | Economics | University of Pittsburgh**
+  <!-- Text Section -->
+  <div style="flex: 1; padding-left: 20px;">
+    <p>
+      I am a Ph.D. student (3rd year) at the Department of Economics at the University of Pittsburgh. My interests are in political economy, development economics, and economic history.
+    </p>
+  </div>
+
+</div>
+
 
 
 ---
