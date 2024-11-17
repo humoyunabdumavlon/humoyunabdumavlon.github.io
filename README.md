@@ -32,7 +32,7 @@
           <div class="flex justify-center items-center space-x-8">
             <a href="cv.pdf" class="text-3xl text-primary transition-colors"><i class="ai ai-cv"></i></a>
             <a href="mailto:abdumavlon@pitt.edu" class="text-3xl text-primary transition-colors"><i class="fas fa-envelope"></i></a>
-            <a href="https://github.com/brunokomel" class="text-3xl text-primary transition-colors"><i class="fab fa-github"></i></a>
+            <a href="https://github.com/humoyunabdumavlon" class="text-3xl text-primary transition-colors"><i class="fab fa-github"></i></a>
             <a href="https://www.linkedin.com/in/humoyun-abdumavlon" class="text-3xl text-primary transition-colors"><i class="fab fa-linkedin"></i></a>
           </div>
         </div>
