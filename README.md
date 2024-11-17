@@ -30,27 +30,28 @@
             <a href="https://www.econ.pitt.edu/" class="text-primary hover:underline">University of Pittsburgh</a>
           </h3>
           <div class="flex justify-center items-center space-x-8">
-            <a href="/uploads/cv.pdf" class="text-3xl text-primary transition-colors"><i class="ai ai-cv"></i></a>
-            <a href="mailto:brunokomel@gmail.com" class="text-3xl text-primary transition-colors"><i class="fas fa-envelope"></i></a>
+            <a href="cv.pdf" class="text-3xl text-primary transition-colors"><i class="ai ai-cv"></i></a>
+            <a href="mailto:abdumavlon@pitt.edu" class="text-3xl text-primary transition-colors"><i class="fas fa-envelope"></i></a>
             <a href="https://github.com/brunokomel" class="text-3xl text-primary transition-colors"><i class="fab fa-github"></i></a>
-            <a href="https://www.linkedin.com/in/brunokomel" class="text-3xl text-primary transition-colors"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/humoyun-abdumavlon" class="text-3xl text-primary transition-colors"><i class="fab fa-linkedin"></i></a>
           </div>
         </div>
       </div>
 
       <div class="w-full md:w-2/3">
         <p class="text-xl text-gray-800">
-          I am a Ph.D. student (4th year) at the Department of Economics at the University of Pittsburgh. 
-          My interests are in development economics, public economics, and political economy, especially 
-          regarding institutions, the provision of public goods, and agriculture.
+              I am a third-year Ph.D. student in Economics at the University of Pittsburgh, 
+              specializing in political economy and development economics. 
+              My research focuses on the interplay between conflict, institutions, and religion, 
+              with a particular interest in their implications for economic development and governance.
         </p>
 
         <div class="flex flex-col md:flex-row gap-8 mt-8">
           <div class="md:w-2/5">
             ### Interests
             
+            - **Empirical Political Economy**
             - **Development Economics**
-            - **Political Economy**
             - **Public Economics**
           </div>
 
@@ -61,29 +62,29 @@
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **Ph.D. in Economics, Expected 2026**  
+                  **Ph.D. in Economics, 2027 (expected)**  
                   [University of Pittsburgh](https://www.econ.pitt.edu/)
                 </div>
               </div>
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **M.A. in Economics, 2022**  
+                  **M.A. in Economics, 2023**  
                   [University of Pittsburgh](https://www.econ.pitt.edu/)
                 </div>
               </div>
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **M.Sc. in Accounting, 2018**  
+                  **M.Sc. in Economics, 2022**  
                   [University of Virginia](https://www.commerce.virginia.edu/)
                 </div>
               </div>
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **B.A. in Business, 2017**  
-                  [Covenant College](https://www.covenant.edu/)
+                  **B.Sc. in Economics, 2020**  
+                  [Tufts University](https://www.westminster.ac.uk/)
                 </div>
               </div>
             </div>
