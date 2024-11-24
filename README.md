@@ -18,7 +18,7 @@
 
 <!-- About Section -->
 <section id="home" class="pt-[140px] pb-1 relative">
-  <div class="absolute inset-0 bg-[url('bg2.jpg')] bg-cover bg-center opacity-30 z-0"></div>
+  <div class="absolute inset-0 bg-[url('bg2.jpg')] bg-cover bg-center z-0"></div>
   <div class="max-w-7xl mx-auto px-4 relative z-10">
     <div class="flex flex-col md:flex-row gap-8 items-start">
       <!-- Profile Picture -->
@@ -41,16 +41,16 @@
 
       <div class="w-full md:w-2/3">
         <p class="text-xl text-gray-800">
-              I am a third-year Ph.D. student in Economics at the University of Pittsburgh, 
-              specializing in political economy and development economics. 
-              My research focuses on the interplay between conflict, institutions, and religion, 
+              I am a third-year Ph.D. student in Economics at the University of Pittsburgh,
+              specializing in political economy and development economics.
+              My research focuses on the interplay between conflict, institutions, and religion,
               with a particular interest in their implications for economic development and governance.
         </p>
 
         <div class="flex flex-col md:flex-row gap-8 mt-8">
           <div class="md:w-2/5">
             ### Interests
-            
+
             - **Empirical Political Economy**
             - **Development Economics**
             - **Public Economics**
@@ -58,33 +58,33 @@
 
           <div class="md:w-3/5">
             ### Education
-            
+
             <div class="space-y-4">
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **Ph.D. in Economics, 2027 (expected)**  
+                  **Ph.D. in Economics, 2027 (expected)**
                   [University of Pittsburgh](https://www.econ.pitt.edu/)
                 </div>
               </div>
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **M.A. in Economics, 2023**  
+                  **M.A. in Economics, 2023**
                   [University of Pittsburgh](https://www.econ.pitt.edu/)
                 </div>
               </div>
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **M.Sc. in Economics, 2022**  
+                  **M.Sc. in Economics, 2022**
                   [University of Virginia](https://www.commerce.virginia.edu/)
                 </div>
               </div>
               <div class="flex items-start">
                 <i class="fas fa-graduation-cap text-lg text-primary mr-3"></i>
                 <div>
-                  **B.Sc. in Economics, 2020**  
+                  **B.Sc. in Economics, 2020**
                   [Tufts University](https://www.westminster.ac.uk/)
                 </div>
               </div>
@@ -93,6 +93,7 @@
         </div>
       </div>
     </div>
+
   </div>
 </section>
 
