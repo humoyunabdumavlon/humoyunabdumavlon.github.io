@@ -187,11 +187,14 @@
     </div>
 
 <!-- MAIN LAYOUT: profile + lists on the left, text + banner + bio on the right -->
-<section id="home" class="pt-[120px] pb-16 max-w-screen-2xl mx-auto px-4 md:px-6">
-  <div class="grid grid-cols-1 md:grid-cols-[16rem_1fr] md:grid-rows-[auto_1fr] gap-y-10 md:gap-y-8 md:gap-x-12">
+<section id="home" class="pt-[120px] pb-16 max-w-[1700px] mx-auto px-4 md:px-3">
+  <div class="grid grid-cols-1 md:grid-cols-[19rem_1fr] md:grid-rows-[auto_1fr] gap-y-10 md:gap-y-8 md:gap-x-8">
 
     <!-- Left, top: profile photo, name, title, icons -->
-    <div class="md:col-start-1 md:row-start-1 flex flex-col items-center text-center">
+    <div class="md:col-start-1 md:row-start-1 md:w-64 flex flex-col items-center text-center">
+      <h2 class="text-lg md:text-xl font-bold text-gray-900 mb-4">
+        Humoyun Abdumavlon
+      </h2>
       <!-- Frame keeps its size; the photo inside is zoomed in slightly -->
       <div class="w-44 h-56 md:w-64 md:h-80 rounded-2xl overflow-hidden shadow-xl border-2 border-gray-200 mb-4">
         <img
@@ -203,9 +206,6 @@
           style="object-position: center 25%; transform: scale(1.15); transform-origin: center 70%;"
         />
       </div>
-      <h2 class="text-lg md:text-xl font-bold text-gray-900 mb-1">
-        Humoyun Abdumavlon
-      </h2>
       <h3 class="text-sm md:text-base font-semibold text-gray-800 mb-1 md:whitespace-nowrap">
         Ph.D. Candidate in Economics
       </h3>
@@ -307,7 +307,7 @@
               <i class="fas fa-graduation-cap text-lg"></i>
             </div>
             <div>
-              <p class="font-semibold">Ph.D. in Economics, 2022 - now </p>
+              <p class="font-semibold whitespace-nowrap">Ph.D. in Economics, 2022 - now </p>
               <p class="text-gray-600">University of Pittsburgh</p>
             </div>
           </li>
@@ -316,7 +316,7 @@
               <i class="fas fa-graduation-cap text-lg"></i>
             </div>
             <div>
-              <p class="font-semibold">M.Sc. in Economics, 2022</p>
+              <p class="font-semibold whitespace-nowrap">M.Sc. in Economics, 2022</p>
               <p class="text-gray-600">Tufts University</p>
             </div>
           </li>
@@ -325,7 +325,7 @@
               <i class="fas fa-graduation-cap text-lg"></i>
             </div>
             <div>
-              <p class="font-semibold">B.Sc. in Economics, 2020</p>
+              <p class="font-semibold whitespace-nowrap">B.Sc. in Economics, 2020</p>
               <p class="text-gray-600">University of Westminster, London</p>
             </div>
           </li>
